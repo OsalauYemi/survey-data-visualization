@@ -1,0 +1,13 @@
+
+Survey Data Visualization Project
+
+Overview:
+This project visualizes customer survey data to reveal insights on satisfaction levels and service channel preferences. Tools used include Excel, Python (matplotlib), and Power BI-style visual storytelling.
+
+Key Charts:
+- Satisfaction Bar Chart: Shows customer ratings across 5 key service areas
+- Channel Pie Chart: Illustrates the breakdown of preferred support channels
+
+Insights:
+- Customer Support ranks highest in satisfaction
+- Online services are the preferred support channel (55%)
